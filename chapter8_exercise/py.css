@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.risut{
+	margin: 50px auto;
+	padding: 0 120px;
+	width: 960px;
+}
+.risut1 {
+	padding: 20px;
+	color: gray;
+	background-color: #F2F2F2;
+}
+.risut2 {
+	padding: 20px;
+	color: gray;
+}
+.box{
+	margin: 50px 0 ;
+	padding: 0 120px;
+	width: 960px;
+	height: 680px;
+	margin: 0 auto;
+}
+.box1{
+	height: 200px;
+	width: 30%;
+	background-color: orange;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box2{
+	height: 200px;
+	width: 30%;
+	background-color: yellow;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box3{
+	height: 200px;
+	width: 30%;
+	background-color: yellow;
+	margin-bottom: 40px;
+	float: left;
+}
+.box4{
+	height: 200px;
+	width: 30%;
+	background-color: yellow;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box5{
+	height: 200px;
+	width: 30%;
+	background-color: orange;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box6{
+	height: 200px;
+	width: 30%;
+	background-color: yellow;
+	margin-bottom: 40px;
+	float: left;
+}
+.box7{
+	height: 200px;
+	width: 30%;
+	background-color: yellow;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box8{
+	height: 200px;
+	width: 30%;
+	background-color: yellow;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box9{
+	height: 200px;
+	width: 30%;
+	background-color: orange;
+	margin-bottom: 40px;
+	float: left;
+}
